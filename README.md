@@ -11,6 +11,7 @@
 
 # 2. 구성
 1. 차체
+<image src="image01.png" width=450px>
 
 
 
