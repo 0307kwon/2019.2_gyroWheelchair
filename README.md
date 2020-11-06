@@ -12,6 +12,10 @@
 # 2. 구성
 1. 차체
 <image src="image01.png" width=450px>
+  
+2. 조종기
+<image src="image02.png" width=900px>
+  
 1) 컬러인식센서로 휠체어의 전진,정지,후진을 구현
 
 2) 모터의 엔코더를 이용해 휠체어의 회전을 구현
