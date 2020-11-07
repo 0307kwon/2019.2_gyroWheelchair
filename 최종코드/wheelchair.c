@@ -311,9 +311,9 @@ static void BT_peripheraltask(void * arg) {
 					}
 
 					mutex_lock(_g_mutex);
-							glcdGotoChar(0,5);
-							glcd_printf("(%d , %d ) ",print_packet[0],print_packet[1]);
-							mutex_unlock(_g_mutex);
+					glcdGotoChar(0,5);
+					glcd_printf("(%d , %d ) ",print_packet[0],print_packet[1]);
+					mutex_unlock(_g_mutex);
 
 
 					if(print_packet[0] != fb_state){
