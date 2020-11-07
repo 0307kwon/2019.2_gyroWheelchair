@@ -2,7 +2,7 @@
 ========================
 2019년 2학기에 개발한 자이로 휠체어
 # 1. summary
-<image src="readme_gif.gif" width=450px>
+<image src="readme_gif.gif" width=250px>
 ▲ 실험 결과
 
 휠체어가 오르막을 오를 때 차체가 기울어져 불안정한 자세가 형성된다.  
