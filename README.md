@@ -24,10 +24,9 @@
   
 # 3. 구조
 ## ● 쓰레드 구조
-
+<image src="image03.png" width=900px>
 ## ● 뮤텍스 구조
-
-
+<image src="image04.png" width=900px>  
 
 # 4. 코드
   
