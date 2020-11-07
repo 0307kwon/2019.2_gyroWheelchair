@@ -24,9 +24,9 @@
   
 # 3. 구조
 ## 3-1. Wheelchair.c (차체)
-● 쓰레드 구조
+<h3>● 쓰레드 구조</h3>
 <image src="image03.png" width=900px>
-● 뮤텍스 구조
+  <h3>● 뮤텍스 구조</h3>
 <image src="image04.png" width=900px>  
 
 # 4. 코드
