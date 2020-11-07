@@ -30,9 +30,9 @@
     <image src="image04.png" width=900px>  
 <h2> 3-1. <a href="./최종코드/controller.c">controller.c</a> (조종기)</h2>
   <h3>● 쓰레드 구조</h3>
-    <image src="image03.png" width=900px>
+    <image src="image05.png" width=900px>
   <h3>● 뮤텍스 구조</h3>
-    <image src="image04.png" width=900px>  
+    <image src="image06.png" width=900px>  
 # 4. 코드
   
 
