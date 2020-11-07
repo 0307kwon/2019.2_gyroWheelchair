@@ -23,9 +23,10 @@
 <p>● 조종기와 차체와의 통신 방법으로 블루투스를 사용, 무선 조종이 가능함  </p> 
   
 # 3. 구조
-## ● 쓰레드 구조
+## 3-1. Wheelchair.c (차체)
+● 쓰레드 구조
 <image src="image03.png" width=900px>
-## ● 뮤텍스 구조
+● 뮤텍스 구조
 <image src="image04.png" width=900px>  
 
 # 4. 코드
