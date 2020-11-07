@@ -54,4 +54,4 @@
 
 # 5. 기타
 
-<div><image src="readme_image.png" width=600px><p>▲ 홈페이지에 게재된 자이로 휠체어 </p></div>
+<div><image src="readme_image.png" width=600px><p><a href="https://sites.google.com/view/knu-rtlab/lectures?authuser=0">▲ 홈페이지에 게재된 자이로 휠체어</a></p></div>
