@@ -5,7 +5,7 @@
 <image src="readme_gif.gif" width=250px>
   
   
-▲ 실험 결과
+▲ 개발 결과
 
 
 <image src="image07.jpg" width=400px>
