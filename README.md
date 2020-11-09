@@ -1,6 +1,19 @@
 2019.2_gyroWheelchair
 ========================
 2019년 2학기에 개발한 자이로 휠체어
+# 0. index
+
+1. [summary](https://github.com/0307kwon/2019.2_gyroWheelchair#1-summary)
+
+2. [Theory](https://github.com/0307kwon/2019.2_gyroWheelchair#2-theory)
+
+3. [구성](https://github.com/0307kwon/2019.2_gyroWheelchair#3-%EA%B5%AC%EC%84%B1)
+
+4. [구조](https://github.com/0307kwon/2019.2_gyroWheelchair#4-%EA%B5%AC%EC%A1%B0)
+
+5. [기타](https://github.com/0307kwon/2019.2_gyroWheelchair#5-%EA%B8%B0%ED%83%80)
+
+
 # 1. summary
 <image src="readme_gif.gif" width=250px>
   
@@ -87,12 +100,12 @@
 <p>● 조종기와 차체와의 통신 방법으로 블루투스를 사용, 무선 조종이 가능함  </p> 
   
 # 4. 구조
-<h2> 3-1. <a href="./최종코드/wheelchair.c">wheelchair.c</a> (차체)
+<h2> 4-1. <a href="./최종코드/wheelchair.c">wheelchair.c</a> (차체)
   <h3>● 쓰레드 구조</h3>
     <image src="image03.png" width=900px>
   <h3>● 뮤텍스 구조</h3>
     <image src="image04.png" width=900px>  
-<h2> 3-1. <a href="./최종코드/controller.c">controller.c</a> (조종기)</h2>
+<h2> 4-1. <a href="./최종코드/controller.c">controller.c</a> (조종기)</h2>
   <h3>● 쓰레드 구조</h3>
     <image src="image05.png" width=900px>
   <h3>● 뮤텍스 구조</h3>
