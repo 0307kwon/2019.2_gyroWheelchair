@@ -7,9 +7,9 @@
 
 2. [Theory](https://github.com/0307kwon/2019.2_gyroWheelchair#2-theory)
 
-3. [하드웨어 구성](https://github.com/0307kwon/2019.2_gyroWheelchair#3-%EA%B5%AC%EC%84%B1)
+3. [하드웨어 구성](https://github.com/0307kwon/2019.2_gyroWheelchair#3-%ED%95%98%EB%93%9C%EC%9B%A8%EC%96%B4-%EA%B5%AC%EC%84%B1)
 
-4. [코드 구조](https://github.com/0307kwon/2019.2_gyroWheelchair#4-%EA%B5%AC%EC%A1%B0)
+4. [코드 구조](https://github.com/0307kwon/2019.2_gyroWheelchair#4-%EC%BD%94%EB%93%9C-%EA%B5%AC%EC%A1%B0)
 
 5. [기타](https://github.com/0307kwon/2019.2_gyroWheelchair#5-%EA%B8%B0%ED%83%80)
 
