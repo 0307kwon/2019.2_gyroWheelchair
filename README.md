@@ -7,9 +7,9 @@
 
 2. [Theory](https://github.com/0307kwon/2019.2_gyroWheelchair#2-theory)
 
-3. [구성](https://github.com/0307kwon/2019.2_gyroWheelchair#3-%EA%B5%AC%EC%84%B1)
+3. [하드웨어 구성](https://github.com/0307kwon/2019.2_gyroWheelchair#3-%EA%B5%AC%EC%84%B1)
 
-4. [구조](https://github.com/0307kwon/2019.2_gyroWheelchair#4-%EA%B5%AC%EC%A1%B0)
+4. [코드 구조](https://github.com/0307kwon/2019.2_gyroWheelchair#4-%EA%B5%AC%EC%A1%B0)
 
 5. [기타](https://github.com/0307kwon/2019.2_gyroWheelchair#5-%EA%B8%B0%ED%83%80)
 
@@ -86,7 +86,7 @@
 
 
 
-# 3. 구성
+# 3. 하드웨어 구성
 1. 차체
 <image src="image01.png" width=450px>  
 <p>● IMU 센서를 통해 의자의 기울기를 인식</p>  
@@ -99,7 +99,7 @@
 <p>● 모터의 엔코더를 이용해 핸들의 회전 방향을 인식하고 오른쪽 회전시 차체를 오른쪽으로 회전, 왼쪽으로 회전시 차체를 왼쪽으로 회전시킨다.  </p> 
 <p>● 조종기와 차체와의 통신 방법으로 블루투스를 사용, 무선 조종이 가능함  </p> 
   
-# 4. 구조
+# 4. 코드 구조
 <h2> 4-1. <a href="./최종코드/wheelchair.c">wheelchair.c</a> (차체)
   <h3>● 쓰레드 구조</h3>
     <image src="image03.png" width=900px>
